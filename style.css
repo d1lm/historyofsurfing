@@ -1,0 +1,21 @@
+html {
+  background: url(images/screen-shot-2018-08-07-at-11-16-23-pm.png)
+}
+
+body {
+  font-family: Playfair Display;
+  color: Yellow;
+  margin: 10px 50px 10px 50px;
+}
+
+h1 {
+  font-family: 'Secular One';
+  text-align: center;
+  background-color: rgba(0,0,0,0);
+
+
+}
+
+img {
+  float: left;
+}
